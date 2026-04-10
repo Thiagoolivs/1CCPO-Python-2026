@@ -8,5 +8,7 @@ import random
 num_rand = random.random()
 print(num_rand * 10)
 
+#
+
 num_rand_int = random.randint(1, 60)
 print(num_rand_int)

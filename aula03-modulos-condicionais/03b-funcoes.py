@@ -7,7 +7,7 @@ def boasVindas(nome):
     print(f"Olá, {nome}!!! Seja bem-vindo!!")
 
 boasVindas("Thiago")
-
+#
 #FUNÇÃO COM RETORNO E COM PARAMETRO
 
 def soma(num_a, num_b):
